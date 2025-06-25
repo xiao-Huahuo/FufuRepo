@@ -1,0 +1,7 @@
+# Visual Studio 临时文件
+.vs/
+*.ipch
+*.suo
+*.user
+bin/
+obj/
